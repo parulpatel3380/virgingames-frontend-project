@@ -1,0 +1,2 @@
+2023-06-17 12:06:183 INFO  HomePage :32 - Welcome Text[[ChromeDriver: chrome on WINDOWS (2f4b3e934fb3ab509adb2ce0180627a9)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-06-17 16:06:413 INFO  HomePage :32 - Welcome Text[[ChromeDriver: chrome on WINDOWS (ed84a2ada5f724345d53cf6179e78dfe)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
